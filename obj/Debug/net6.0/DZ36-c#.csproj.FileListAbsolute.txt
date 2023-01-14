@@ -1,0 +1,15 @@
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ36-c#\bin\Debug\net6.0\DZ36-c#.exe
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ36-c#\bin\Debug\net6.0\DZ36-c#.deps.json
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ36-c#\bin\Debug\net6.0\DZ36-c#.runtimeconfig.json
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ36-c#\bin\Debug\net6.0\DZ36-c#.dll
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ36-c#\bin\Debug\net6.0\DZ36-c#.pdb
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ36-c#\obj\Debug\net6.0\DZ36-c#.csproj.AssemblyReference.cache
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ36-c#\obj\Debug\net6.0\DZ36-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ36-c#\obj\Debug\net6.0\DZ36-c#.AssemblyInfoInputs.cache
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ36-c#\obj\Debug\net6.0\DZ36-c#.AssemblyInfo.cs
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ36-c#\obj\Debug\net6.0\DZ36-c#.csproj.CoreCompileInputs.cache
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ36-c#\obj\Debug\net6.0\DZ36-c#.dll
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ36-c#\obj\Debug\net6.0\refint\DZ36-c#.dll
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ36-c#\obj\Debug\net6.0\DZ36-c#.pdb
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ36-c#\obj\Debug\net6.0\DZ36-c#.genruntimeconfig.cache
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ36-c#\obj\Debug\net6.0\ref\DZ36-c#.dll
